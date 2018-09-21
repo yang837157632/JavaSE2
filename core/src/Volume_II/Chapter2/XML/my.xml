@@ -1,0 +1,14 @@
+<?xml version = "1.0" encoding="utf-8" ?>
+<!DOCTYPE class SYSTEM "my.dtd">
+<class>
+    <student ID="sp001" Sex="F" Brother="sp001 sp002" Address="London">
+        <name>Alice</name>
+        <introduction>A Fighter</introduction>
+        <age>24</age>
+    </student>
+    <student ID="sp002" Brother="sp001 sp002" Sex="M">
+        <name>Maven</name>
+        <introduction>%mycopy;</introduction>
+        <age>101</age>
+    </student>
+</class>

@@ -1,0 +1,13 @@
+<!ELEMENT class (student)*>
+<!ENTITY % myname "name">
+<!ELEMENT student (%myname; , introduction , age)>
+<!ATTLIST student
+    Address CDATA #FIXED "London"
+    ID ID #REQUIRED
+    Brother IDREFS #REQUIRED
+    Sex (M|F) #REQUIRED
+>
+<!ELEMENT %myname; (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT introduction (#PCDATA)>
+<!ENTITY mycopy "my company operation">

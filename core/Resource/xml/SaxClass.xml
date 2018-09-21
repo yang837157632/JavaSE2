@@ -1,0 +1,13 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<class>
+    <student>
+        <name>Angle</name>
+        <age>10</age>
+        <intro>Angel from heaven</intro>
+    </student>
+    <student>
+        <name>Evil</name>
+        <age>1000</age>
+        <intro>Rise from ashes</intro>
+    </student>
+</class>

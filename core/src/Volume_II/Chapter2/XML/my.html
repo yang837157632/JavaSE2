@@ -1,0 +1,12 @@
+<html>
+<head>
+<script language="javascript">
+    var xmldoc = new ActiveXObject("Microsoft.XMLDOM");
+    xmldoc.validateOnParse = true;
+    xmldoc.load("my.xml");
+    document.writeln("Wrong Information : "+xmldoc.parseError.reason + "<br />");
+    document.writeln("Wrong Line : "+ xmldoc.parseError.line)
+</script>
+</head>
+<body></body>
+</html>

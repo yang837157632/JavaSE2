@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><class>
+    <student>
+        <name sex="M">Fire</name>
+        <age>12</age>
+        <intro>Shining in the sky</intro>
+    </student>
+    <student sex="F">
+        <name>Moon</name>
+        <age>24</age>
+        <intro>Soft and chilly</intro>
+    </student>
+    <student sex="M">
+        <name>Star</name>
+        <age>1</age>
+        <intro>Distant and alone</intro>
+    </student>
+    <student sex="F">
+        <name>Star</name>
+        <age>8</age>
+        <intro>Distant and alone</intro>
+    </student>
+</class>

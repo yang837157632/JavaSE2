@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<class> 
+  <student> 
+    <name nickname="weekday">Sunday</name>  
+    <age>34</age>  
+    <intro>Holiday</intro> 
+  </student>  
+  <student> 
+    <name nickname="weekday">Tuesday</name>  
+    <age>37</age>  
+    <intro>Another day</intro> 
+  </student>  
+  <student> 
+    <name nickname="weekday">Friday</name>  
+    <age>35</age>  
+    <intro>Looking for the weekend</intro> 
+  </student> 
+</class>

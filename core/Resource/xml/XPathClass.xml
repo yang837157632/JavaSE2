@@ -1,0 +1,14 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<AAA>
+    <BBB id="b1">
+        <CCC>
+            <DDD>d1</DDD>
+        </CCC>
+        <CCC>
+            <DDD>d2</DDD>
+        </CCC>
+    </BBB>
+    <BBB id="b2" />
+    <BBB id="b3" />
+    <BBB id="b4" />
+</AAA>
